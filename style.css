@@ -9,7 +9,7 @@
 	text-align: center;
 	font-family: "Roboto";
 	font-weight: bold;
-	font-size: 40px;
+	font-size: 30px;
 }
 			
 .data{
@@ -51,7 +51,7 @@ a:hover, a:active {
 	background-color: #FFFFFF;
 }
 
-@media only screen and (max-width:800px) {
+@media only screen and (max-width:500px) {
 				
 /* Mobile */
 		
@@ -65,7 +65,7 @@ a:hover, a:active {
 		text-align: center;
 		font-family: Arial, Helvetica, sans-serif;
 		font-weight: bold;
-		font-size: 20px;	
+		font-size: 10vw;	
 	}
 				
 	.data{
